@@ -8,7 +8,7 @@ You can test this out with phrases such as:
 
 2. What banking account services do you offer? 
 
-3. What are are your bank account services etc
+3. What  are your bank account services etc
 
 4. Where are you, Where are you located? etc
 
