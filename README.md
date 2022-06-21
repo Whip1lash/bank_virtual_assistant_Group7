@@ -16,11 +16,7 @@ You can test this out with phrases such as:
 
 The executable built project can be found at https://drive.google.com/drive/folders/1IRAilPneyVTTyYpO03O1r14FSUX2mui9?usp=sharing
 
-To run the project you would need to have unity installed and open the "Bank_Bot" folder through the unity application.
-
-
-
-
+To run the application, download the bank bot zipped folder and run the Group7 executable file. 
 
 The project files can be found in the "Bank_Bot" folder in the Group7_Virtual_Bank_Assistant folder. In that folder you can access the code-scripts in Assets/Scripts.
 
