@@ -1,9 +1,9 @@
 # bank_virtual_assistant
 
-This application serves as a virtual assistant for a Demo bank. 
-It helps answer questions like where is the bank , what time it closes etc. 
-Run the Bank bot executable to start the application. 
-This bank bot responds to both text and speech input . 
+This application serves as an Artificial Intelligence powered virtual assistant for a Demo bank. 
+It is able to understand people’s queries and responds accordingly.It helps answer questions like where is the bank , what time it closes etc. 
+The bank bot responds to both text and speech input.Run the Bank bot executable to start the application. 
+ 
 
 You can test this out with phrases such as:
 
