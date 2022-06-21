@@ -1,7 +1,10 @@
 # bank_virtual_assistant
 
-This application serves as a virtual assistant for a Demo bank. It helps answer questions like where is the bank , what time it closes etc. 
-Run the Bank bot executable to start the application. Also it takes two forms of input speech and text so go ahead and try it out. 
+This application serves as a virtual assistant for a Demo bank. 
+It helps answer questions like where is the bank , what time it closes etc. 
+Run the Bank bot executable to start the application. 
+This bank bot responds to both text and speech input . 
+
 You can test this out with phrases such as:
 
 1. What are your hours? When are your hours? When are you open? etc
